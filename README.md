@@ -1,6 +1,8 @@
 # Movie Trailers
 
-Run this in a terminal to see the project in action:
+*How to run*
+* Open the file directory in your terminal
+* Type in
 
 ```shell
 python project.py
